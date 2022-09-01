@@ -1,4 +1,4 @@
-# Hello World, I'm Ciro Batista - Front End Developer 😄
+# Hello World, I'm Ciro - Front End Developer 😄
 
 ### Tools and Technologies
 
