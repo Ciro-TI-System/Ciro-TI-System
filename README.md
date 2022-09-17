@@ -1,4 +1,4 @@
-# Hello World, I'm Ciro - Front End Developer 😄
+# Hello World, I'm Ciro - Front End Developer <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
   
 ### Tools and Technologies
 
