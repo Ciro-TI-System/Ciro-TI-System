@@ -1,4 +1,4 @@
-# Hello World, I'm Ciro - Front End Developer <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hello World, I'm Ciro - Front End Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 ### Tools and Technologies
 
@@ -29,7 +29,7 @@
 
 ##
  
-<div> 
+<div align="center"> 
  
   <a href = "mailto:cirofight@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:cirobatista.cbs2020ti@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -37,5 +37,7 @@
   ![Snake animation](https://github.com/Ciro-TI-System/Ciro-TI-System/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
   
-  ---
