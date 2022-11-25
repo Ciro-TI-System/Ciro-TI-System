@@ -1,5 +1,6 @@
 <!-- Your title -->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello World, I'm Ciro - Front End Developer 🚀 from Brazil.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System&color=yellow" alt="Profile views" /> </p>
 
 ### Tools and Technologies
 <div style="display: inline_block"><br>
