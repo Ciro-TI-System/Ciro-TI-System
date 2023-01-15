@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 <div align="center">
   <a href="https://github.com/Ciro-TI-System">
   <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=Ciro-TI-System&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=Ciro-TI-System&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-TI-System&layout=compact&langs_count=8&theme=dracula"/>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Ciro-TI-System&theme=dark&hide_border=true" width = 400>
 </div>
