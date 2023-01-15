@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
   <img height="180em" 
   src="https://github-readme-stats.vercel.app/api?username=Ciro-TI-System&show_icons=true&theme=dracula"/>
   <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-TI-System&layout=compact&langs_count=8&theme=dracula"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-TI-System&layout=compact&langs_count=8"/>
   <img width = 400
   src ="https://github-readme-streak-stats.herokuapp.com?user=Ciro-TI-System&theme=dark&hide_border=true" >
 </div>
