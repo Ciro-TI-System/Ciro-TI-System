@@ -47,10 +47,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
   <img height="180em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-TI-System&layout=compact&langs_count=10&theme=dracula"/>
   <img width = 400
-  src ="https://github-readme-streak-stats.herokuapp.com?user=Ciro-TI-System&theme=dark&hide_border=true" >
+  src ="https://github-readme-streak-stats.herokuapp.com?user=Ciro-TI-System&theme=dracula_border=true" />
+</div>
+    
+ <hr>
+ 
+ ### 🏆 Github trophies
+
+<div align="center">
+  <a href="https://github.com/Ciro-TI-System">
+  <img src ="https://github-profile-trophy.vercel.app/?username=Ciro-TI-System&margin-w=15theme=dark" />
 </div>
 
-##
+<hr>
+    
+[![Ciro-TI-System Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ciro-TI-System&custom_title=Ciro-TI-System%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
  
 <div align="center"> 
   <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Ciro-TI-System/Ciro-TI-System/blob/main/Handshake.gif" width="60"></a>
@@ -66,11 +77,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
   <a href="https://twitter.com/CiroSilva2020" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/Ciro-TI-System/Ciro-TI-System/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
+<h1 align="center"> 🐍 Snake Eating My Contribution 🐍 </h1>
+
+<img src="https://raw.githubusercontent.com/Ciro-TI-System/Ciro-TI-System/output/github-contribution-grid-snake.svg" alt="snake" height="80%" width="100%"/>
+
+<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>   
+
+<p align="center">
+    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>   
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-  
