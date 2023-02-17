@@ -44,25 +44,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ciro-TI-System&theme=dracula&langs_count=10"/>
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ciro-TI-System" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/Ciro-TI-System">
-  <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=Ciro-TI-System&show_icons=true&theme=dracula"/>
-  <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-TI-System&layout=compact&langs_count=10&theme=dracula"/>
-  <img width = 400
-  src ="https://github-readme-streak-stats.herokuapp.com?user=Ciro-TI-System&theme=dracula_border=true" />
-</div>
     
  <hr>
  
@@ -73,9 +63,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
   <img src ="https://github-profile-trophy.vercel.app/?username=Ciro-TI-System&margin-w=15theme=dark" />
 </div>
 
-<hr>
-    
-[![Ciro-TI-System Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ciro-TI-System&custom_title=Ciro-TI-System%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+<hr> 
  
 <div align="center"> 
   <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Ciro-TI-System/Ciro-TI-System/blob/main/Handshake.gif" width="60"></a>
