@@ -13,6 +13,8 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="Ciro-TI-System"/>-->
 </p> 
 
+<hr>
+
 ### Tools and Technologies
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img 
@@ -38,7 +40,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
   <img align="center" alt="Ciro-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-  ---
+  <hr>
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+<td width="50%" align="center">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/Ciro-TI-System">
