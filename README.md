@@ -1,6 +1,17 @@
 <!-- Your title -->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello World, I'm Ciro - Front End Developer 🚀 from Brazil.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System&color=yellow" alt="Profile views" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
+    <!--<a href="https://github.com/Ciro-TI-System?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Ciro-TI-System" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/Ciro-TI-System" alt="Active_Years"/>-->  
+    <!--<a href="https://github.com/Ciro-TI-System/Ciro-TI-System" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Ciro-TI-System" alt="commits"/>--> 
+    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Ciro-TI-System/Ciro-TI-System" /></a>
+    <a href="https://github.com/Ciro-TI-System?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Ciro-TI-System?color=4C1&logo=github"></a>
+    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Ciro-TI-System/Ciro-TI-System?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/Ciro-TI-System" target="_blank"><img alt="Ciro-TI-System" src="https://badges.pufler.dev/visits/Ciro-TI-System/Ciro-TI-System?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/Ciro-TI-System" alt="Ciro-TI-System"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="Ciro-TI-System"/>-->
+</p> 
 
 ### Tools and Technologies
 <div style="display: inline_block"><br>
@@ -42,6 +53,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 ##
  
 <div align="center"> 
+  <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Ciro-TI-System/Ciro-TI-System/blob/main/Handshake.gif" width="60"></a>
+</h3> 
  
   <a href = "mailto:cirofight@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:cirobatista.cbs2020ti@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
