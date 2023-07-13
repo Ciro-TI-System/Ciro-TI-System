@@ -86,7 +86,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
   <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/>
  </a>
 </p>
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
