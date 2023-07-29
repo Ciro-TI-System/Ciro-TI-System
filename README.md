@@ -70,6 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ciro-TI-System" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
 </td>
+
 </tr>
 </table>
 
@@ -77,7 +78,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
  
 <h1 align="center"> 🐍 Snake Eating My Contribution 🐍 </h1>
 
-<img src="https://raw.githubusercontent.com/Ciro-TI-System/Ciro-TI-System/output/github-contribution-grid-snake.svg" alt="snake" height="80%" width="100%"/>
+![Snake animation](https://github.com/Ciro-TI-System/Ciro-TI-System/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ciro-TI-System}/count.svg" /></p> 
+<br></div>
 
 <h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
 
