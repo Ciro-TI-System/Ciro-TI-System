@@ -8,7 +8,6 @@
     <a href="https://github.com/Ciro-TI-System/Ciro-TI-System/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Ciro-TI-System/Ciro-TI-System" /></a>
     <a href="https://github.com/Ciro-TI-System?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Ciro-TI-System?color=4C1&logo=github"></a>
     <a href="https://github.com/Ciro-TI-System/Ciro-TI-System" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Ciro-TI-System/Ciro-TI-System?label=Profile%20update&style=fflat-square"></a>
-    <a href="https://github.com/Ciro-TI-System" target="_blank"><img alt="Ciro-TI-System" src="https://badges.pufler.dev/visits/Ciro-TI-System/Ciro-TI-System?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <img src="https://badges.pufler.dev/gists/Ciro-TI-System" alt="Ciro-TI-System"/>    
 </p> 
 
