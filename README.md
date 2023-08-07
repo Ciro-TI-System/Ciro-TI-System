@@ -1,9 +1,6 @@
 <!-- Your title -->
 <h1 ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Ciro, Full-Stack Developer 🚀 from Brazil.</h1>
 
-
-<img align="center" alt="Ciro-Js" height="800" width="1000" src=""/>
-
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
     <a href="https://github.com/Ciro-TI-System?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Ciro-TI-System" alt="Repos"/></a>
