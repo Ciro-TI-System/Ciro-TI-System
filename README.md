@@ -1,5 +1,9 @@
 <!-- Your title -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello World! I'm Ciro, Full-Stack Developer 🚀 from Brazil.
+<h1 ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Ciro, Full-Stack Developer 🚀 from Brazil.</h1>
+
+
+<img align="center" alt="Ciro-Js" height="800" width="1000" src=""/>
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
     <a href="https://github.com/Ciro-TI-System?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Ciro-TI-System" alt="Repos"/></a>
@@ -12,15 +16,15 @@
 </p> 
 
 <div align="center"> 
-  <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Ciro-TI-System/Ciro-TI-System/blob/main/Handshake.gif" width="60"></a>
-</h3>
- <a href = "mailto:cirofight@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cirobatista.cbs2020ti@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <h3> Connect with me </h3>
+  <a href="mailto:cirofight@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cirobatista.cbs2020ti@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cirobatistadasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ciro-batista-da-silva-8b6838205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+   target="_blank"></a>
   <a href="https://twitter.com/CiroSilva2020" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 
 <hr>
