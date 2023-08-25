@@ -1,5 +1,8 @@
-<!-- Your title -->
-<h1 ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Ciro, Full-Stack Developer 🚀 from Brazil.</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World!</h1>
+
+<h3>⚙️Meu nome é Ciro Batista da Silva, sou estudante de programação.</h3> 
+<p>Fiz graduação pela Unopar em 'Análise e Desenvolvimento de Sistemas'.<br>
+Também sou aluno da Rocketseat🚀, da Algaworks e da DIO e embora já tenha tido experiência com outras linguagens de programação, como C++, Java, C# e outras,  atualmente tenho me especializado em Javascript e suas bibliotecas.⚙️.</p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
