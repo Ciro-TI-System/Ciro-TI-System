@@ -1,9 +1,9 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World!</h1>
 
-<h3>⚙️Meu nome é Ciro Batista da Silva, sou estudante de programação.</h3> 
+<p>🚀 Meu nome é <strong>Ciro Batista da Silva</strong> e sou estudante de programação full-stack.</p> 
 <p>Fiz graduação pela Unopar em 'Análise e Desenvolvimento de Sistemas'.<br>
-Também sou aluno da Rocketseat🚀, da Algaworks e da DIO e embora já tenha tido experiência com outras linguagens de programação, como C++, Java, C# e outras,  atualmente tenho me especializado em Javascript e suas bibliotecas.⚙️.</p>
-
+Também sou aluno da Rocketseat, da Algaworks e da DIO (Digital Innovation One). Embora já tenha tido experiência com outras linguagens de programação, como C++, Java, C# e outras,  atualmente tenho me especializado em Javascript e suas bibliotecas..</p>
+<br>
 <hr>
 
 <p align="center"> 
