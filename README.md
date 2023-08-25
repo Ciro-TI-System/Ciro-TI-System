@@ -4,6 +4,8 @@
 <p>Fiz graduação pela Unopar em 'Análise e Desenvolvimento de Sistemas'.<br>
 Também sou aluno da Rocketseat🚀, da Algaworks e da DIO e embora já tenha tido experiência com outras linguagens de programação, como C++, Java, C# e outras,  atualmente tenho me especializado em Javascript e suas bibliotecas.⚙️.</p>
 
+<hr>
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
     <a href="https://github.com/Ciro-TI-System?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Ciro-TI-System" alt="Repos"/></a>
