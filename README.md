@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
 <div style="display: inline_block"><br>
   <img align="center" alt="Ciro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ciro-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ciro-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/react-icon.svg" />
   <img align="center" alt="Ciro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ciro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ciro-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -55,12 +55,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
   <img align="center" alt="Ciro-Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
   <img align="center" alt="Ciro-Nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Ciro-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Ciro-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Ciro-MySQL" height="60" width="60" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
   <img align="center" alt="Ciro-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Ciro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/java-icon.svg" />
   <img align="center" alt="Ciro-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Ciro-AWS" height="40" width="40" src="https://hermes.dio.me/skills/57a5885a-20cc-49f5-b353-8f6956f6e7d7.png" />
-          
+  <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/aws-icon.svg" />
+    
 </div>
 
 <hr>
@@ -80,10 +80,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
 </table>
 
 <hr> 
- 
+
+<h1 align="center"> Gráfico de Atividade </h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ciro-TI-System&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+<hr>
+
+
 <h1 align="center"> 🐍 Snake Eating My Contribution 🐍 </h1>
 
-![Snake animation](https://github.com/Ciro-TI-System/Ciro-TI-System/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ciro-TI-System/Ciro-TI-System/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
