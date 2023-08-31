@@ -40,7 +40,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmar
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>       
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img 
+src="https://techstack-generator.vercel.app/restapi-icon.svg" width="90" height="90" align="top"/>
 </div>
   
 ### I am learning
@@ -50,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
   <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/react-icon.svg" />
   <img align="center" alt="Ciro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ciro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ciro-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/csharp-icon.svg" />
   <img align="center" alt="Ciro-GraphQl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Ciro-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Ciro-Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
@@ -58,9 +59,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
   <img align="center" alt="Ciro-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Ciro-MySQL" height="60" width="60" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
   <img align="center" alt="Ciro-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/java-icon.svg" />
+  <img align="center" alt="Ciro-Java" height="60" width="60" src="https://techstack-generator.vercel.app/java-icon.svg" />
   <img align="center" alt="Ciro-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/aws-icon.svg" />
+  <img align="center" alt="Ciro-Nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  
     
 </div>
 
