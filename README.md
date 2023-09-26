@@ -77,8 +77,9 @@ src="https://techstack-generator.vercel.app/restapi-icon.svg" width="90" height=
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ciro-TI-System" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
+<img  align="center" alt="Ciro-TI-System" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
+    
+<img  align="center" alt="Ciro-TI-System" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
 </td>
 
 </tr>
