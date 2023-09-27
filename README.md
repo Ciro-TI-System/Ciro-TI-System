@@ -77,9 +77,9 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ciro-TI-System&theme=dracula&langs_count=10"/>
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" display="flex" >
 <img  align="center" alt="Ciro-TI-System" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
-    
+ 
 <img  align="center" alt="Ciro-TI-System" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
 </td>
 
