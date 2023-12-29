@@ -1,8 +1,8 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World!</h1>
 
-<p>🚀 Meu nome é <strong>Ciro Batista da Silva</strong> e sou estudante de programação full-stack.</p> 
-<p>Fiz graduação pela Unopar em 'Análise e Desenvolvimento de Sistemas'.<br>
-Também sou aluno da Rocketseat, da Algaworks e da DIO (Digital Innovation One). Embora já tenha tido experiência com outras linguagens de programação, como C++, Java, C# e outras,  atualmente tenho me especializado em Javascript e suas bibliotecas..</p>
+<p>🚀 Meu nome é <strong>Ciro Batista da Silva</strong> e sou programador full-stack.</p> 
+<p>Fiz graduação em 'Análise e Desenvolvimento de Sistemas'.<br>
+Tenho experiência em C#, Java, Javascript, Typescript e outras,  atualmente tenho me especializado em React, Angular e CRM Dynamics..</p>
 <br>
 <hr>
 
