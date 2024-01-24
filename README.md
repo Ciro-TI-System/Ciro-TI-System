@@ -100,7 +100,7 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
 
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=Ciro-TI-System&repo=Ciro-TI-System&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Ciro-TI-System" height="40px" />
+  <img src="https://profile-counter.glitch.me/Ciro-TI-System/count.svg" alt="Contador de Visitas do Perfil no Github do Ciro-TI-System" height="40px" />
 </div>
 
 <h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
