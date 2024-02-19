@@ -2,7 +2,7 @@
 
 <p>🚀 Meu nome é <strong>Ciro Batista da Silva</strong> e sou programador full-stack.</p> 
 <p>Fiz graduação em 'Análise e Desenvolvimento de Sistemas'.<br>
-Tenho experiência em C#, Java, Javascript, Typescript e outras,  atualmente tenho me especializado em React, NodeJS, Angular e CRM Dynamics..</p>
+Tenho experiência em Javascript, Typescript e outras linguagens de progração e atualmente tenho me especializado em React e NodeJS.</p>
 <br>
 <hr>
 
