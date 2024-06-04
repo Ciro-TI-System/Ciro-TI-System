@@ -37,10 +37,10 @@ Tenho experiência em Javascript, Typescript e outras linguagens de progração 
 src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40"/> <img                                                                                           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img 
 src="https://techstack-generator.vercel.app/restapi-icon.svg" width="90" height="90" align="top"/> <img
 src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" align=""/>
 </div>
