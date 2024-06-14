@@ -1,9 +1,10 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World!</h1>
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>🚀 Meu nome é <strong>Ciro Batista da Silva</strong> e sou programador full-stack.</p> 
-<p>Fiz graduação em 'Análise e Desenvolvimento de Sistemas'.<br>
-Tenho experiência em Javascript, Typescript e outras linguagens de progração e atualmente tenho me especializado em React e NodeJS.</p>
-<br>
+🚀 Meu nome é **Ciro Batista da Silva** e sou programador full-stack.
+
+Fiz graduação em 'Análise e Desenvolvimento de Sistemas'.
+Tenho experiência em Javascript, Typescript e outras linguagens de programação, e atualmente tenho me especializado em React e NodeJS.
+
 <hr>
 
 <p align="center"> 
@@ -72,22 +73,23 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
 
 <hr>
 
-<table border="0">
-<tr border="0">
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ciro-TI-System&theme=dracula&langs_count=10"/>
-</td>
-
-<td width="50%" align="center" display="flex" >
-<img  align="center" alt="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
-
-<img  align="center" alt="Ciro-TI-System" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
-
-<img  align="center" alt="Ciro-TI-System" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ciro-TI-System&theme=dracula" />
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ciro-TI-System&theme=dracula&langs_count=10" />
+    </td>
+    <td width="50%" align="center">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img alt="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
+        <br />
+        <img alt="Ciro-TI-System" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ciro-TI-System&theme=dracula" />
+        <br />
+        <img alt="Ciro-TI-System" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
+      </div>
+    </td>
+  </tr>
 </table>
+
 
 <hr> 
 
