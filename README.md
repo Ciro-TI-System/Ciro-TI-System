@@ -82,8 +82,6 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
       <div style="display: flex; flex-direction: column; align-items: center;">
         <img alt="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ciro-TI-System&theme=dracula" />
         <br />
-        <img alt="Ciro-TI-System" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ciro-TI-System&theme=dracula" />
-        <br />
         <img alt="Ciro-TI-System" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ciro-TI-System&show_icons=true&include_all_commits=true&theme=dracula" />
       </div>
     </td>
@@ -93,8 +91,15 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
 
 <hr> 
 
-<h1 align="center"> Gráfico de Atividade </h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ciro-TI-System&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<h1 align="center"> Gráficos de Atividade </h1>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ciro-TI-System&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ciro-TI-System&theme=dracula" width="1100px" alt="Ciro-TI-System" />
+</p>
 
 <hr>
 
