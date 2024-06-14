@@ -61,9 +61,10 @@ src="https://skillicons.dev/icons?i=maven&theme=light" width="50" height="50" al
   <img align="center" alt="Ciro-MySQL" height="60" width="60" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
   <img align="center" alt="Ciro-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Ciro-Java" height="60" width="60" src="https://techstack-generator.vercel.app/java-icon.svg" />
+  <img align="center" alt="Ciro-Python" height="60" width="60" src="https://techstack-generator.vercel.app/python-icon.svg" />
   <img align="center" alt="Ciro-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Ciro-AWS" height="60" width="60" src="https://techstack-generator.vercel.app/aws-icon.svg" />
-   <img align="center" alt="Ciro-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Ciro-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Ciro-Nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   
     
