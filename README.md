@@ -1,6 +1,6 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🚀 Meu nome é **Ciro Batista da Silva** e sou programador full-stack.
+🚀 Meu nome é **Ciro Batista da Silva** e sou programador Full Stack.
 
 Fiz graduação em 'Análise e Desenvolvimento de Sistemas'.
 Tenho experiência em Javascript, Typescript e outras linguagens de programação, e atualmente tenho me especializado em React e NodeJS.
