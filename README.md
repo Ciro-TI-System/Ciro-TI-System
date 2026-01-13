@@ -7,16 +7,29 @@ Tenho experiência em Javascript, Typescript e outras linguagens de programaçã
 
 <hr>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System" alt="Ciro-TI-System"/>       
-    <a href="https://github.com/Ciro-TI-System?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Ciro-TI-System" alt="Repos"/></a>
-    <img src="https://badges.pufler.dev/years/Ciro-TI-System" alt="Active_Years"/>  
-    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Ciro-TI-System" alt="commits"/>
-    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Ciro-TI-System/Ciro-TI-System" /></a>
-    <a href="https://github.com/Ciro-TI-System?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Ciro-TI-System?color=4C1&logo=github"></a>
-    <a href="https://github.com/Ciro-TI-System/Ciro-TI-System" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Ciro-TI-System/Ciro-TI-System?label=Profile%20update&style=fflat-square"></a>
-    <img src="https://badges.pufler.dev/gists/Ciro-TI-System" alt="Ciro-TI-System"/>    
-</p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ciro-TI-System&style=flat-square&color=blueviolet" alt="Views"/>
+  
+  <a href="https://github.com/Ciro-TI-System?tab=repositories">
+    <img src="https://img.shields.io/github/public-repos/Ciro-TI-System?style=flat-square&logo=github&color=success" alt="Repos"/>
+  </a>
+
+  <a href="https://github.com/Ciro-TI-System?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ciro-TI-System?style=flat-square&logo=github&color=orange" alt="Followers"/>
+  </a>
+
+  <a href="https://github.com/Ciro-TI-System/Ciro-TI-System/pulse">
+    <img src="https://img.shields.io/github/commit-activity/m/Ciro-TI-System/Ciro-TI-System?style=flat-square&color=blue" alt="Activity"/>
+  </a>
+
+  <a href="https://github.com/Ciro-TI-System/Ciro-TI-System">
+    <img src="https://img.shields.io/github/last-commit/Ciro-TI-System/Ciro-TI-System?label=Profile%20Update&style=flat-square&color=red" alt="Update"/>
+  </a>
+
+  <a href="https://gist.github.com/Ciro-TI-System">
+    <img src="https://img.shields.io/github/gists/Ciro-TI-System?style=flat-square&color=yellow" alt="Gists"/>
+  </a>
+</p>
 
 <div align="center"> 
   <h3> Connect with me </h3>
